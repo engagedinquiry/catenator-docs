@@ -48,6 +48,16 @@ For teams building AI-answering systems from a knowledge base, and tired of one 
 - [The mechanics of refraction](docs/knowledge-teams/mechanics-of-refraction.md)
 - [Delivering with a paradigm shift](docs/knowledge-teams/delivering-with-a-paradigm-shift.md)
 
+## Engineers
+
+For teams that added AI answering on top of an existing product, and want it to finally respect the roles and permissions the rest of the product already enforces.
+
+- [Start here](docs/engineers/README.md)
+- [Governing document](docs/engineers/governing-document.md)
+- [Refraction](docs/engineers/refraction.md)
+- [The mechanics of refraction](docs/integrators/mechanics-of-refraction.md)
+- [Delivering with a paradigm shift](docs/integrators/delivering-with-a-paradigm-shift.md)
+
 ## Integrators
 
 For teams that added AI answering on top of an existing product, and want it to finally respect the roles and permissions the rest of the product already enforces.
